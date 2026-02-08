@@ -1,5 +1,6 @@
 # Experiment 6
 Aim - To study and implement conditional statements in Python
+
 Algorithm
 
 Start the program.
