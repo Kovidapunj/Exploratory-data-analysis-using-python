@@ -1,4 +1,4 @@
-#Experiment 2
+Experiment 2
 Aim: Introduction to Python
 Theory: 
 a)Data Types in Python:
