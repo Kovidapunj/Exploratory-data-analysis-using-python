@@ -1,32 +1,49 @@
 # Experiment 6
-Aim - To study and implement conditional statements in Python
+Experiment 5
+## Title
 
-Algorithm
+To Study and Implement Conditional Statements in Python
+
+## Aim
+
+To study and implement conditional statements in Python for decision-making.
+
+## Algorithm
 
 Start the program.
 
-Take the required input from the user.
+Declare variable(s) or take input from the user.
 
-Apply conditional statements (if, elif, else) to evaluate the given condition(s).
+Apply the conditional statement to check the given condition.
 
-Execute the corresponding block of code based on the condition’s result.
+If the condition is true, execute the corresponding statement.
 
-Display the output.
+If the condition is false, execute the alternative statement.
+
+Display the result.
 
 Stop the program.
 
-Theory
+## Objectives
 
-Conditional statements in Python are used to perform different actions based on different conditions. They allow a program to evaluate expressions and execute specific code blocks only when certain conditions are satisfied. This decision-making capability is essential for building logical and real-world applications.
+To understand the concept of conditional statements in Python.
 
-Python mainly uses the following conditional statements:
+To learn how to use conditional statements for decision-making.
 
-if statement – executes a block of code when a condition is true.
+To implement programs using conditional statements.
 
-if-else statement – executes one block if the condition is true and another if it is false.
+To understand how program execution depends on conditions.
 
-if-elif-else statement – checks multiple conditions sequentially and executes the block corresponding to the first true condition.
+## Theory
 
-Nested if statement – an if statement placed inside another if statement for complex decision-making.
+Conditional statements are used to control the flow of execution in a program based on certain conditions. They allow the program to make decisions and execute specific blocks of code depending on whether the condition is true or false.
 
-Conclusion - Conditional statements form the backbone of decision-making in Python programming. By using if, if-else, and if-elif-else structures, programs can respond dynamically to different inputs and situations. This study demonstrates how conditional logic improves program flexibility, accuracy, and real-world applicability, making it an essential concept for effective Python programming.
+In Python, conditional statements are implemented using if, if-else, and if-elif-else statements. The if statement is used to check a condition and execute a block of code if the condition is true. The if-else statement is used when there are two possible outcomes based on a condition. The if-elif-else statement is used when multiple conditions need to be checked.
+
+These statements use relational and logical operators to evaluate conditions. Based on the result of the condition, the program executes the appropriate block of code.
+
+Conditional statements are important in programming because they allow programs to make decisions, perform different actions, and solve real-world problems efficiently.
+
+## Conclusion
+
+Thus, conditional statements in Python were studied and implemented successfully. Their role in decision-making and controlling the flow of program execution was understood.
