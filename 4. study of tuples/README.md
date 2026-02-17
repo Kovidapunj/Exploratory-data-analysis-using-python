@@ -1,11 +1,49 @@
 # Experiment 4
-Aim of Experiment: Study of Tuple in Python
+## Title
 
-Theory: A tuple is a built-in Python data structure created using (). • Elements are ordered and accessed using indexing starting from 0. • len() is used to find the number of elements in a tuple. • Supports membership operators and slicing. • Tuples are immutable, so they cannot be modified. • Immutability makes tuples faster and more secure than lists.
+Study of Tuples in Python
 
-Differences between Tuple and List a)Mutability →Tuple: immutable t = (1,2,3) | List: mutable l = [1,2,3] b)Brackets used → Tuple: () → t = (1,2) | List: [] → l = [1,2] c)Speed → Tuple: faster t = (1,2,3) | List: slower l = [1,2,3] d)Memory usage → Tuple: less memory t = (1,2) | List: more memory l = [1,2] e)Built-in methods → Tuple: fewer methods dir(()) | List: many methods l.append(4)
+## Aim
 
-Algorithm: 1.Start 2.Define a tuple to store marks and attendance values 3.Use built-in functions like sum(), len(), max(), and min() to calculate total marks, average, highest, and lowest marks 4.Use count() to count the number of presents ("P") in the attendance tuple 5.If the number of presents is greater than or equal to 1, display Present; otherwise, display Absent 6.Display all calculated results 7.Stop
+To study and understand the tuple data type in Python and its features and applications.
 
-Conclusion: This experiment helped us understand tuples in Python and use built-in functions to solve marks and attendance problems efficiently.
+## Algorithm
 
+Start the Python environment.
+
+Create a tuple containing multiple elements.
+
+Observe how elements are stored in the tuple.
+
+Access elements using their positions.
+
+Study the properties and characteristics of tuples.
+
+Observe how tuples are used to store collections of data.
+
+Stop the program.
+
+## Objectives
+
+To understand the concept of tuples in Python.
+To learn how tuples store multiple elements in a single variable.
+
+To study the ordered nature of tuples.
+
+To understand the use of tuples in storing collections of data.
+
+To learn the importance of tuples in Python programming.
+
+## Theory
+
+A tuple is a built-in data type in Python used to store multiple elements in a single variable. It is an ordered collection of elements, where each element has a specific position called an index. Tuples are used to group related data together in a structured form.
+
+Tuples can store different types of data such as numbers, strings, and other elements in a single tuple. The ordered nature of tuples allows easy access to elements using their index positions. This makes tuples useful for organizing and managing data efficiently.
+
+Tuples are commonly used when a fixed collection of values needs to be stored and maintained. They help in improving program structure by grouping related values together. Tuples also provide better performance in certain situations due to their simple and stable structure.
+
+Tuples play an important role in Python programming, especially when handling collections of data that need to be stored in an organized and reliable way. They are widely used in many applications for efficient data handling.
+
+## Conclusion
+
+Thus, the tuple data type in Python was studied and understood. The structure, characteristics, and importance of tuples were learned. Tuples provide an efficient and organized way to store multiple elements, making them an essential data type in Python programming.
