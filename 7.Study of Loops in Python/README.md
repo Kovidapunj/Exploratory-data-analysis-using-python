@@ -22,15 +22,14 @@ To study and understand the concept of looping constructs in Python and implemen
 
 ## ALGORITHM
 
-**Step 1:** Start.
-**Step 2:** Identify the number of repetitions required.
-**Step 3:** Select the appropriate loop (`for` loop when number of iterations is known, `while` loop when condition-based repetition is required).
-**Step 4:** Initialize control variable (if using `while` loop).
-**Step 5:** Write the loop condition.
-**Step 6:** Execute the statements inside the loop body.
-**Step 7:** Update the control variable (if required).
-**Step 8:** Repeat until the condition becomes false.
-**Step 9:** Stop.
+ Start.
+ Select the appropriate loop (`for` loop when number of iterations is known, `while` loop when condition-based repetition is required).
+ Initialize control variable (if using `while` loop).
+ Write the loop condition.
+ Execute the statements inside the loop body.
+ Update the control variable (if required).
+ Repeat until the condition becomes false.
+ Stop.
 
 ---
 
