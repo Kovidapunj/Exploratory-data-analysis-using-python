@@ -17,7 +17,7 @@ To perform basic data analysis operations.
 
 To understand the importance of Pandas in data science applications.
 
-# Algorithm
+## Algorithm
 Start.
  Import the Pandas library using import pandas as pd.
  Create a Series or DataFrame.
