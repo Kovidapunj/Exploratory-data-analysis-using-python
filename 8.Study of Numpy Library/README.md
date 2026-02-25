@@ -18,15 +18,14 @@ To understand mathematical and statistical functions provided by NumPy.
 
 To compare NumPy arrays with Python lists in terms of efficiency.
 
-## Algorithm:
-
-Step 1: Start.
-Step 2: Import the NumPy library using import numpy as np.
-Step 3: Create NumPy arrays using appropriate functions.
-Step 4: Perform basic operations such as indexing and slicing.
-Step 5: Apply mathematical and statistical functions on arrays.
-Step 6: Display the results.
-Step 7: Stop.
+## Algorithm 
+Start.
+Import the NumPy library using import numpy as np.
+Create NumPy arrays using appropriate functions.
+Perform basic operations such as indexing and slicing.
+Apply mathematical and statistical functions on arrays.
+Display the results.
+Stop.
 
 ## Theory:
 
