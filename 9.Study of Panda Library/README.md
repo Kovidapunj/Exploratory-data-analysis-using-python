@@ -1,65 +1,62 @@
 # Experiment 9
 
-Study of Python Libraries
+Study of Panda Libraries
 
 ## Aim:
-
-To study Python libraries and understand their role in simplifying programming tasks and enhancing functionality.
+To study the Pandas library in Python and understand its use for data manipulation and analysis.
 
 ## Objectives:
 
-To understand the concept of libraries in Python.
+To understand the purpose of the Pandas library.
 
-To study the types of Python libraries.
+To study the basic data structures in Pandas.
 
-To learn how to import and use libraries in Python programs.
+To learn how to create and manipulate data using Pandas.
 
-To understand the importance of libraries in real-world applications.
+To perform basic data analysis operations.
 
-## Algorithm:
+To understand the importance of Pandas in data science applications.
 
+# Algorithm
 Start.
-Identify the required functionality for the program.
-Import the necessary Python library using the import statement.
-Access functions or modules from the library.
-Execute the program using the imported library features.
-Display the output.
-Stop.
+ Import the Pandas library using import pandas as pd.
+ Create a Series or DataFrame.
+ Perform operations such as indexing, selection, and filtering.
+ Apply functions for data analysis (sorting, grouping, summarizing).
+ Display the output.
+ Stop.
+
 
 ## Theory:
+Pandas is an open-source Python library used for data analysis and manipulation. It provides powerful and flexible data structures designed to handle structured data efficiently.
 
-A Python library is a collection of pre-written modules and functions that help programmers perform specific tasks without writing code from scratch. Libraries improve productivity, reduce development time, and enhance program efficiency.
+The two primary data structures in Pandas are:
 
-Python provides two main types of libraries:
+### 1. Series
 
-### 1. Standard Library
+A one-dimensional labeled array capable of holding data of any type.
 
-The Python Standard Library comes pre-installed with Python. It contains modules for file handling, mathematical operations, date and time processing, operating system interaction, and more.
+### 2. DataFrame
 
-Examples include:
+A two-dimensional labeled data structure with rows and columns, similar to a table in a database or spreadsheet.
 
-Mathematical operations
+Key Features of Pandas:
 
-Random number generation
+Data Handling:
+Efficient handling of missing data.
 
-File and directory management
+Data Manipulation:
+Supports filtering, sorting, grouping, merging, and reshaping of data.
 
-#### 2. External Libraries
+File Handling:
+Can read and write data from various file formats such as CSV, Excel, and JSON.
 
-These libraries are developed by third parties and must be installed separately. They are widely used in data science, web development, machine learning, and automation.
+Statistical Functions:
+Provides built-in methods for calculating mean, median, standard deviation, and other statistical measures.
 
-Examples include:
+Pandas is widely used in data science, machine learning, finance, and research fields due to its powerful data analysis capabilities.
 
-Numerical computing libraries
-
-Data analysis libraries
-
-Visualization libraries
-
-Libraries are imported using the import keyword. Once imported, their functions can be used in the program.
-
-Libraries make Python powerful and suitable for various domains such as scientific computing, web development, artificial intelligence, and automation.
 
 ## Conclusion:
 
-Thus, the concept of Python libraries was studied. It was observed that libraries provide pre-defined functions and modules that simplify programming tasks. The use of libraries enhances efficiency, reduces coding effort, and enables the development of advanced applications in Python.
+Thus, the Pandas library was studied and implemented successfully. It was observed that Pandas provides efficient tools for data manipulation and analysis. The DataFrame and Series structures make handling structured data simple and effective, making Pandas an essential library for data-related applications.
